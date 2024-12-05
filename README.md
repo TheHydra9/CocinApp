@@ -40,5 +40,5 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 
 ## 📸 Capturas de Pantalla
 
-<img src="https://github.com/user-attachments/assets/1782309f-04b0-419d-89c3-3554ef47ec59" alt="imagen" width="50%" />
+<img src="https://github.com/user-attachments/assets/1782309f-04b0-419d-89c3-3554ef47ec59" alt="imagen" width="20%" />
 
