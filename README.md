@@ -38,7 +38,7 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 2. Abre el instalador y completa la isntalación
 3. ¡Disfuta!
 
-📸 Capturas de Pantalla
+## 📸 Capturas de Pantalla
 
-![imagen](https://github.com/user-attachments/assets/1782309f-04b0-419d-89c3-3554ef47ec59)
+<img src="https://github.com/user-attachments/assets/1782309f-04b0-419d-89c3-3554ef47ec59" alt="imagen" width="50%" />
 
