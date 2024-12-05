@@ -1,6 +1,7 @@
 # 🍳 CocinApp
 
-![Logo de CocinApp](https://via.placeholder.com/150)
+![CocinAppLogo](https://github.com/user-attachments/assets/cdb14401-7f0c-47ed-8bdf-0f8a9b2b7c20)
+
 
 Una app de cocina que facilita la gestión de recetas, ayudándote a organizar, buscar, y disfrutar de tus platos favoritos.
 
